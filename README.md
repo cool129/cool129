@@ -8,13 +8,14 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Henry</a></b>.
-    <br>🎓   Tarrant County College - South Campus of Cyber Security at TX
-📚   Studying Certified Ethical Hacker (CEH) , Web Application Hacking and Security (WASH).
-👑   Junior Java Back-end Developer
-🤔   Interested in Machine Learning and Web development<br>
-
-</samp>
+    Hello there! I'm 
+    <b><a target="_blank" href="https://www.linkedin.com/in/obieze-obiejezie-6976a9299/">Henry</a></b>.<br>
+    🎓 Tarrant County College – South Campus, Cybersecurity Student in TX<br>
+    📚 Studying Certified Ethical Hacker (CEH) and Web Application Hacking & Security (WASH)<br>
+    👑 Junior Java Back-end Developer<br>
+    🤔 Interested in Machine Learning and Web Development
+  </samp>
+</p>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
