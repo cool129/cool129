@@ -34,7 +34,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:henryobiejezie@gmail.com" >
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhpdKLfGlQmgFklRmlPHlJvpqDnJSPXdqwgfxJsWFlHsJBXnzbsjqLFFkPLCTswDVkJjvV" >
     <img align="center" alt="Henry-OO | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
