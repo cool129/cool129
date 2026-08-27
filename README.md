@@ -28,8 +28,8 @@
 
 </samp>
 
-  <img src="https://github.com/user-attachments/assets/cb456ca7-e94a-4b44-9cd3-6e8342653e87" width="200"/>
-
+  <img src="https://github.com/user-attachments/assets/cb456ca7-e94a-4b44-9cd3-6e8342653e87" width="300" height="300" style="object-fit: cover;"/>
+  
 </details>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
