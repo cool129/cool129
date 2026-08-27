@@ -45,9 +45,9 @@
   <img align="center" src="https://img.icons8.com/color/48/facebook-new.png" height="30" width="30"/>
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/geo2face?igsh=MTg0M2Riem5tc21uNA%3D%3D&utm_source=qr" target="_blank">
-    <img align="center" alt="Henry-OO | GitHub" src="https://img.shields.io/badge/GitHub-Henry--OO-black?style=flat&logo=github&logoColor=white" />
-  </a> &nbsp;&nbsp;
+  <a href="https://github.com/cool129" target="_blank">
+    <img align="center" alt="Henry-OO | GitHub" width="26px" src="https://github.com/github.png" />
+</a>
   
   <a href="https://github.com/cool129" target="_blank">
     <img align="center" alt="Henry-OO | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
