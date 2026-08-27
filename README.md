@@ -28,7 +28,7 @@
 
 </samp>
 
-  <img src="https://github.com/user-attachments/assets/cb456ca7-e94a-4b44-9cd3-6e8342653e87" width="300" height="300" style="object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/cc59ecc5-2c4e-4939-85a1-521c915709f3" width="300"/>
   
 </details>
 
