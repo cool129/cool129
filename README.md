@@ -28,7 +28,8 @@
 
 </samp>
 
-  <img src="file:///C:/Users/Bobby/Downloads/copy_6B6329B3-C036-46A3-9238-790DBF371B5C.gif" width="200"/>
+  <img src="https://github.com/user-attachments/assets/cb456ca7-e94a-4b44-9cd3-6e8342653e87" width="200"/>
+
 </details>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
