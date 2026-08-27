@@ -28,8 +28,7 @@
 
 </samp>
 
-  <img src="https://media.giphy.com/media/Tra7SLmdViyDkRwxSG/giphy.gif" width="200"/>
-
+  <img src="https://drive.google.com/uc?export=view&id=1XXkqSW648zZL4pUg70jtPR9x-CxeSTKC" width="200"/>
 </details>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
