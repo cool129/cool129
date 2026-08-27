@@ -54,7 +54,7 @@
 ![](https://img.shields.io/badge/Code-virustotal.com-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Splunk-informational?style=flat&logo=css3&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Jenkins-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-GitHub Actions-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-GitHub-Actions-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
