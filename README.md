@@ -10,10 +10,10 @@
   <samp>
     Hello there! I'm 
     <b><a target="_blank" href="https://www.linkedin.com/in/obieze-obiejezie-6976a9299/">Henry</a></b>.<br>
-    🎓 Tarrant County College – South Campus, Cybersecurity Student in TX<br>
-    📚 Studying Certified Ethical Hacker (CEH) and Web Application Hacking & Security (WASH)<br>
-    👑 Junior Java Back-end Developer<br>
-    🤔 Interested in Machine Learning and Web Development
+    🎓 Self Taught DevOps Engineer<br>
+    📚 Studying Certified Ethical Hacker (CEH) & CompTIA Security+<br>
+    🛡️Home lab: Linux, Windows Server AD, Jenkins CI/CD, Splunk<br>
+    🎯 Chasing a SOC Analyst / entry-level DevOps<br>
   </samp>
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
@@ -28,9 +28,9 @@
 
 </samp>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1lenVxOGllbGUxcHllN3F1bnVlZ2N0aTI4MW0yMXNsNGR2Z3Y4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tra7SLmdViyDkRwxSG/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Tra7SLmdViyDkRwxSG/giphy.gif" width="200"/>
 
-</p>
+</details>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
