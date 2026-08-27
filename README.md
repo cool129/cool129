@@ -48,10 +48,6 @@
   <a href="https://github.com/cool129" target="_blank">
     <img align="center" alt="Henry-OO | GitHub" width="26px" src="https://github.com/github.png" />
   </a> &nbsp;&nbsp;
-  
-  <a href="https://github.com/cool129" target="_blank">
-    <img align="center" alt="Henry-OO | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
 <p> 
 
 # Technologies & Tools 🔧
