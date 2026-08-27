@@ -46,7 +46,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/geo2face?igsh=MTg0M2Riem5tc21uNA%3D%3D&utm_source=qr" target="_blank">
-    <img align="center" alt="Henry-OO | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="center" alt="Henry-OO | GitHub" src="https://img.shields.io/badge/GitHub-Henry--OO-black?style=flat&logo=github&logoColor=white" />
   </a> &nbsp;&nbsp;
   
   <a href="https://github.com/cool129" target="_blank">
